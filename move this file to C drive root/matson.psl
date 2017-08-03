@@ -1,0 +1,11 @@
+#
+# This script file was recorded automatically.
+#
+menu hide
+set comm-type telnet
+set host-name 10.7.8.90
+ok = [session open]
+if {$ok == 0} {send "LXE/q/24/010.007.010.193"}
+
+
+
