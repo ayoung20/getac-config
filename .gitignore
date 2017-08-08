@@ -1,0 +1,7 @@
+CommandLauncher/dist/**
+CommandLauncher/target/**
+CommandLauncher/.settings/**
+CommandLauncher/.idea/**
+CommandLauncher/.project
+CommandLauncher/.classpath
+CommandLauncher/ nbactions.xml
