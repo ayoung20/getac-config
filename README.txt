@@ -1,6 +1,8 @@
 GETAC Configuration Guide
 
-- 1 compile the command launcher jar(if changes are necessary), or use the latest version in the \jar directory. 
-- 2 move the contents of the \powerterm directory to the target powerterm install directory. 
-- 3 move the contents of the \mydocuments directory to the target (c:\<user>\my documents\
-- 4 move the contents of the \c directory to the root directory(c:\)_
+Start with the documentation contained in the /documentation folder. 
+
+/commandlauncher - contains the source for the application that launches the Ericom PowerTerm shell application
+/config - contains the configuration files for the HVK virtual keyboard application.
+/documentation - contains the documentation for the HVK virtual keyboard application.
+/jar - contains a binary of the CommandLauncher Java application. 
